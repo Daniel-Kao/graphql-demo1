@@ -1,7 +1,11 @@
 {
   "users": [
-    { "id": "23", "firstName": "Bill", "age": 32 },
-    { "id": "33", "firstName": "Daniel", "age": 20 },
-    { "id": "43", "firstName": "Koriw", "age": 24 }
+    { "id": "23", "firstName": "Bill", "age": 32, "companyId": "1" },
+    { "id": "33", "firstName": "Daniel", "age": 20, "companyId": "2" },
+    { "id": "43", "firstName": "Koriw", "age": 24, "companyId": "2" }
+  ],
+  "companies": [
+    { "id": "1", "name": "Apple", "description": "ipohne" },
+    { "id": "2", "name": "google", "description": "google" }
   ]
 }
