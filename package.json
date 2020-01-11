@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.5.8",
+    "lodash": "^4.17.15"
+  },
+  "name": "graphql-demo1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel-Kao/graphql-demo1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniel-Kao/graphql-demo1/issues"
+  },
+  "homepage": "https://github.com/Daniel-Kao/graphql-demo1#readme",
+  "description": ""
+}
